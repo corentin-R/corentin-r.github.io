@@ -11,5 +11,17 @@
 	<atom:link href="https://corentin-r.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>whoami</title>
+      <link>https://corentin-r.github.io/about/</link>
+      <pubDate>Tue, 16 Jun 2020 10:53:43 +0200</pubDate>
+      
+      <guid>https://corentin-r.github.io/about/</guid>
+      <description>Work experiences SpringCard Since Feb. 206
+Working as Embedded Software Engineer at the R&amp;amp;D Office at Angers (49) on mutilples projects:
+ HF and UHF RFID readers firmware on micro-controller Access Control panel running with embedded Linux SDKs and applicatives example on Windows, Linux and Android IoT sensors, gateways and backend  Pellenc Jul. 2015 - Dec. 2015
+Last-year 6-months intership on a Grape Harvesting Machine Manufacturer Company at Pertuis (84).</description>
+    </item>
+    
   </channel>
 </rss>
