@@ -6,7 +6,7 @@
     <description>Recent content on Corentin Raoult</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Jun 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2015 21:29:52 +0100</lastBuildDate>
     
 	<atom:link href="https://corentin-r.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -25,12 +25,22 @@ Pellenc S.A. Jul. 2015 - Dec. 2015
     </item>
     
     <item>
-      <title>Arcade</title>
+      <title>VR Serious Game</title>
+      <link>https://corentin-r.github.io/projects/marmotte_world/</link>
+      <pubDate>Fri, 26 Jun 2015 21:29:52 +0100</pubDate>
+      
+      <guid>https://corentin-r.github.io/projects/marmotte_world/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arcade Cabinet</title>
       <link>https://corentin-r.github.io/projects/arcade/</link>
-      <pubDate>Mon, 16 Jun 2014 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
       
       <guid>https://corentin-r.github.io/projects/arcade/</guid>
-      <description></description>
+      <description>Project made within the Club Elec of ISEN Brest.
+ Pour plus .</description>
     </item>
     
   </channel>
