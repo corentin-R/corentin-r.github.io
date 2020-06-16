@@ -6,21 +6,31 @@
     <description>Recent content on Corentin Raoult</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 16 Jun 2014 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://corentin-r.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>whoami</title>
+      <title>$ whoami</title>
       <link>https://corentin-r.github.io/about/</link>
       <pubDate>Tue, 16 Jun 2020 10:53:43 +0200</pubDate>
       
       <guid>https://corentin-r.github.io/about/</guid>
-      <description>Work experiences SpringCard Since Feb. 206
+      <description>Work experiences SpringCard Since Feb. 2016
 Working as Embedded Software Engineer at the R&amp;amp;D Office at Angers (49) on mutilples projects:
- HF and UHF RFID readers firmware on micro-controller Access Control panel running with embedded Linux SDKs and applicatives example on Windows, Linux and Android IoT sensors, gateways and backend  Pellenc Jul. 2015 - Dec. 2015
-Last-year 6-months intership on a Grape Harvesting Machine Manufacturer Company at Pertuis (84).</description>
+ HF and UHF RFID readers firmware on micro-controller Access Control panel running with embedded Linux SDKs, applicatives example and drivers on Windows, Linux and Android IoT sensors, gateways and backend  springcard.com
+Pellenc S.A. Jul. 2015 - Dec. 2015
+6-months intership on a Grape Harvesting Machine Manufacturer Company at Pertuis (84).</description>
+    </item>
+    
+    <item>
+      <title>Arcade</title>
+      <link>https://corentin-r.github.io/projects/arcade/</link>
+      <pubDate>Mon, 16 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://corentin-r.github.io/projects/arcade/</guid>
+      <description></description>
     </item>
     
   </channel>
