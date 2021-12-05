@@ -6,32 +6,10 @@
     <description>Recent content in Projects on Corentin Raoult</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2015 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://corentin-r.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Arcade Cabinet Restoration</title>
-      <link>https://corentin-r.github.io/projects/arcade_cabinet_restauration/</link>
-      <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://corentin-r.github.io/projects/arcade_cabinet_restauration/</guid>
-      <description>Restoration of an old arcade cabinet with some mebers of the Numérique pour tous assocation. The arcade cabinet is available for everyone at the library of Angers.
-This arcade cabinet use a 19&amp;rdquo; LCD display and is running on a Raspberry Pi 3B (with Retropie), the buttons are directely plugged on the GPIO.</description>
-    </item>
-    
-    <item>
-      <title>LED Table</title>
-      <link>https://corentin-r.github.io/projects/led_table/</link>
-      <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://corentin-r.github.io/projects/led_table/</guid>
-      <description>Small project done for fun within the Numérique pour tous association.
-The LED Matrix (WS2812B) is driven by a single Arduino UNO which receives commands from the PC by the serial port.
-The software used to compute the animations is GLEDiator.
-             </description>
-    </item>
     
     <item>
       <title>VR Serious Game</title>
@@ -57,15 +35,6 @@ The software used to compute the animations is GLEDiator.
       <pubDate>Sat, 31 Jan 2015 00:00:00 +0000</pubDate>
       
       <guid>https://corentin-r.github.io/projects/global_game_jam_2015-/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Intergalactic Space Shooter (small web game)</title>
-      <link>https://corentin-r.github.io/projects/iss/</link>
-      <pubDate>Thu, 15 Jan 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://corentin-r.github.io/projects/iss/</guid>
       <description></description>
     </item>
     
@@ -108,27 +77,6 @@ If a person was detected, a SMS was send thanks to a GSM module communicating wi
     </item>
     
     <item>
-      <title>Minitel reconversion</title>
-      <link>https://corentin-r.github.io/projects/minitel/</link>
-      <pubDate>Sat, 05 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://corentin-r.github.io/projects/minitel/</guid>
-      <description>Serial Terminal The first thing we can do with a minitel is to use it as a Linux serial Terminal. It can be done with a small level shifter card to interface the tension of the minitel to the 3V3 needed by the Raspberry Pi. even if it doesn&amp;rsquo;t handle colors, you can use any Linux commands and play Dunnet or go on the web with Elinks.
-Links to similar projects:</description>
-    </item>
-    
-    <item>
-      <title>Arcade Cabinet Construction</title>
-      <link>https://corentin-r.github.io/projects/arcade_cabinet_construction/</link>
-      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://corentin-r.github.io/projects/arcade_cabinet_construction/</guid>
-      <description>Construction of an arcade cabinet from scratch with the team of the Club Elec of ISEN Brest.
-This arcade cabinet is just an old computer running Arch Linux plugged to a CRT TV and an keyboard matrix bor the controls.
-  </description>
-    </item>
-    
-    <item>
       <title>Pulse oxymeter</title>
       <link>https://corentin-r.github.io/projects/pulse_oxymeter/</link>
       <pubDate>Wed, 29 May 2013 00:00:00 +0000</pubDate>
@@ -137,29 +85,6 @@ This arcade cabinet is just an old computer running Arch Linux plugged to a CRT 
       <description>6-weeks student project during the 3rd year at ISEN Brest. The project was done in groups of 2.
 The project was divided in 3 parts:
  Electronic: design the card with CAO software, then sold the component on the PCB FPGA: Impelment the alogorithm in VHDL to process the IR variation and determine the heart beat. Software: The card was plugged to a computer with an FTDI serial interface, the role of the computer was just to compute the SPO2 arte and show the heart rate.</description>
-    </item>
-    
-    <item>
-      <title>Sudoku Solver</title>
-      <link>https://corentin-r.github.io/projects/sudoku_solver/</link>
-      <pubDate>Mon, 22 Apr 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://corentin-r.github.io/projects/sudoku_solver/</guid>
-      <description>Small project done with a friend in C with the SDL library
-Some screenshots:
- Github page of the project</description>
-    </item>
-    
-    <item>
-      <title>Motion Space Invaders</title>
-      <link>https://corentin-r.github.io/projects/motion_space_invaders/</link>
-      <pubDate>Wed, 19 Dec 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://corentin-r.github.io/projects/motion_space_invaders/</guid>
-      <description>This project is a C++ game done as part of the Club Elec of the ISEN Brest for the open house day.
-The player control the tank by moving to the left or the right thanks to OpenCV (color tracking). To fire the player uses the left button of a mouse. The GUI is done with the SDL library.
-Below are some screenshots of the game:
-Github page of the project</description>
     </item>
     
   </channel>
