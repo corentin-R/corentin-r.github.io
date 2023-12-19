@@ -6,11 +6,7 @@
     <description>Recent content in Projects on Corentin Raoult</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Nov 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://corentin-r.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 29 Nov 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://corentin-r.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arcade Cabinet Restoration</title>
       <link>https://corentin-r.github.io/projects/arcade_cabinet_restauration/</link>
@@ -18,7 +14,7 @@
       
       <guid>https://corentin-r.github.io/projects/arcade_cabinet_restauration/</guid>
       <description>Restoration of an old arcade cabinet with some mebers of the Numérique pour tous assocation. The arcade cabinet is available for everyone at the library of Angers.
-This arcade cabinet use a 19&amp;rdquo; LCD display and is running on a Raspberry Pi 3B (with Retropie), the buttons are directely plugged on the GPIO.</description>
+This arcade cabinet use a 19&amp;quot; LCD display and is running on a Raspberry Pi 3B (with Retropie), the buttons are directely plugged on the GPIO.</description>
     </item>
     
     <item>
@@ -29,8 +25,7 @@ This arcade cabinet use a 19&amp;rdquo; LCD display and is running on a Raspberr
       <guid>https://corentin-r.github.io/projects/led_table/</guid>
       <description>Small project done for fun within the Numérique pour tous association.
 The LED Matrix (WS2812B) is driven by a single Arduino UNO which receives commands from the PC by the serial port.
-The software used to compute the animations is GLEDiator.
-             </description>
+The software used to compute the animations is GLEDiator.</description>
     </item>
     
     <item>
@@ -124,8 +119,7 @@ Links to similar projects:</description>
       
       <guid>https://corentin-r.github.io/projects/arcade_cabinet_construction/</guid>
       <description>Construction of an arcade cabinet from scratch with the team of the Club Elec of ISEN Brest.
-This arcade cabinet is just an old computer running Arch Linux plugged to a CRT TV and an keyboard matrix bor the controls.
-  </description>
+This arcade cabinet is just an old computer running Arch Linux plugged to a CRT TV and an keyboard matrix bor the controls.</description>
     </item>
     
     <item>
@@ -136,7 +130,7 @@ This arcade cabinet is just an old computer running Arch Linux plugged to a CRT 
       <guid>https://corentin-r.github.io/projects/pulse_oxymeter/</guid>
       <description>6-weeks student project during the 3rd year at ISEN Brest. The project was done in groups of 2.
 The project was divided in 3 parts:
- Electronic: design the card with CAO software, then sold the component on the PCB FPGA: Impelment the alogorithm in VHDL to process the IR variation and determine the heart beat. Software: The card was plugged to a computer with an FTDI serial interface, the role of the computer was just to compute the SPO2 arte and show the heart rate.</description>
+Electronic: design the card with CAO software, then sold the component on the PCB FPGA: Impelment the alogorithm in VHDL to process the IR variation and determine the heart beat. Software: The card was plugged to a computer with an FTDI serial interface, the role of the computer was just to compute the SPO2 arte and show the heart rate.</description>
     </item>
     
     <item>
@@ -147,7 +141,7 @@ The project was divided in 3 parts:
       <guid>https://corentin-r.github.io/projects/sudoku_solver/</guid>
       <description>Small project done with a friend in C with the SDL library
 Some screenshots:
- Github page of the project</description>
+Github page of the project</description>
     </item>
     
     <item>

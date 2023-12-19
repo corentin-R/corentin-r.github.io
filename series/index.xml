@@ -5,10 +5,6 @@
     <link>https://corentin-r.github.io/series/</link>
     <description>Recent content in Series on Corentin Raoult</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://corentin-r.github.io/series/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://corentin-r.github.io/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
