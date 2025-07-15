@@ -14,10 +14,9 @@
       
       <guid>https://corentin-r.github.io/about/</guid>
       <description>Work experiences Chapsvision Since May 2024
-Development and maintenance of a network probe in C/Python Design and development of network analysis tools and Wireshark plugins Technologies used:
-C, Python, Lua, Bash Linux Servers (AlmaLinux, Debian) Git, Gitlab, Wireshark, ElasticShearch, MariaDB Mors Smitt (Wabtec Group) Jan. 2022 - May 2024
-Development of EMS systems for railway application Implementation of tests and code analysis tools and Wireshark plugins Technologies used:
-C, C#, Python, Lua, Shell Embedded Linux, Desktop Windows, Microchip PIC16F Git, Gitlab, Buildroot, Wireshark, SonarQube Thales Jun.</description>
+Development and maintenance of a network probe in C and Python for judicial interceptions Design and development of network analysis tools and Wireshark plugins Technologies used:
+C, Python, Lua, Bash Linux Servers (AlmaLinux, Debian) Git, Gitlab, Wireshark, ElasticShearch, MariaDB, CMake Mors Smitt (Wabtec Group) Jan. 2022 - May 2024
+Development of EMS systems for railway application Implementation of tests and code analysis tools and Wireshark plugins Technologies used:</description>
     </item>
     
     <item>
